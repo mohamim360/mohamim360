@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh
-  <br>
-  <br>
+  <br><br>
   <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="Hand drawn web developers">  
 </h3>
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **mhhamim11@gmail.com**
 
-### Blogs posts
+#### Blogs posts
 ***
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
