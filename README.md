@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh
+  <br>
+  <br>
   <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" alt="Hand drawn web developers">  
 </h3>
 
@@ -16,9 +18,6 @@
 ### Blogs posts
 ***
 <!-- BLOG-POST-LIST:START -->
-https://medium.com/kubehub/what-is-typescript-and-why-should-we-use-it-7b9261a14c44
-
-https://medium.com/kubehub/how-to-use-mongoose-9ee160d601b7
 <!-- BLOG-POST-LIST:END -->
 
 #### ☕ Connect with me:
