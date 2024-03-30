@@ -17,6 +17,8 @@
 #### Blogs posts
 ***
 <!-- BLOG-POST-LIST:START -->
+- [What is TypeScript, and why should we use it?](https://medium.com/kubehub/what-is-typescript-and-why-should-we-use-it-7b9261a14c44?source=rss-b058e0381044------2)
+- [How To Use Mongoose](https://medium.com/kubehub/how-to-use-mongoose-9ee160d601b7?source=rss-b058e0381044------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### ☕ Connect with me:
